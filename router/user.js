@@ -16,4 +16,5 @@ router.put(
   middleware.single("image"),
   controllerUser.updateProfil
 );
+
 module.exports = router;
